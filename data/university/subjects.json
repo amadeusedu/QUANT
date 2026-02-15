@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Calculus",
+    "workload": "heavy",
+    "topics": [
+      "derivatives",
+      "integrals"
+    ],
+    "semester_start": "2026-02-15",
+    "semester_end": "2026-06-01"
+  },
+  {
+    "name": "Linear Algebra",
+    "workload": "med",
+    "topics": [
+      "matrices",
+      "eigenvalues"
+    ],
+    "semester_start": "2026-02-15",
+    "semester_end": "2026-06-01"
+  },
+  {
+    "name": "Physics 1",
+    "workload": "heavy",
+    "topics": [
+      "mechanics"
+    ],
+    "semester_start": "2026-02-15",
+    "semester_end": "2026-06-01"
+  },
+  {
+    "name": "Algorithms",
+    "workload": "med",
+    "topics": [
+      "complexity",
+      "graphs"
+    ],
+    "semester_start": "2026-02-15",
+    "semester_end": "2026-06-01"
+  },
+  {
+    "name": "Probability",
+    "workload": "med",
+    "topics": [
+      "bayes",
+      "rv"
+    ],
+    "semester_start": "2026-02-15",
+    "semester_end": "2026-06-01"
+  }
+]
