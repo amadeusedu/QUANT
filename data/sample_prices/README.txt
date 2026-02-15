@@ -1,0 +1,1 @@
+Synthetic daily OHLCV sample data with >2 years bars.
